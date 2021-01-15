@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14401" started-at="2021-01-11T15:19:17 IST" finished-at="2021-01-11T15:19:32 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14401" started-at="2021-01-11T15:19:17 IST" finished-at="2021-01-11T15:19:32 IST">
+      <class name="Tutorial_Sdet_Package.Get_AllHeaders">
+        <test-method status="PASS" signature="GetalltheHeaders()[pri:0, instance:Tutorial_Sdet_Package.Get_AllHeaders@25af5db5]" name="GetalltheHeaders" duration-ms="14165" started-at="2021-01-11T15:19:18 IST" finished-at="2021-01-11T15:19:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetalltheHeaders -->
+      </class> <!-- Tutorial_Sdet_Package.Get_AllHeaders -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

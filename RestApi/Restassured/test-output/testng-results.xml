@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25561000" started-at="2020-12-04T10:29:28 IST" finished-at="2020-12-04T17:35:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25561000" started-at="2020-12-04T10:29:28 IST" finished-at="2020-12-04T17:35:29 IST">
+      <class name="com.get.GetData2">
+        <test-method status="PASS" signature="getresponsecode()[pri:0, instance:com.get.GetData2@5f16132a]" name="getresponsecode" duration-ms="25560128" started-at="2020-12-04T10:29:28 IST" finished-at="2020-12-04T17:35:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getresponsecode -->
+        <test-method status="PASS" signature="testbody()[pri:0, instance:com.get.GetData2@5f16132a]" name="testbody" duration-ms="602" started-at="2020-12-04T17:35:29 IST" finished-at="2020-12-04T17:35:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testbody -->
+      </class> <!-- com.get.GetData2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

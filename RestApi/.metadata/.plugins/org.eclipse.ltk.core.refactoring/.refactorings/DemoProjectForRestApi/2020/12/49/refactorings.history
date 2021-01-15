@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Examples&apos; to &apos;Examples_Get&apos;&#x0D;&#x0A;- Original project: &apos;DemoProjectForRestApi&apos;&#x0D;&#x0A;- Original element: &apos;Examples&apos;&#x0D;&#x0A;- Renamed element: &apos;Examples_Get&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Examples&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Examples.java[Examples" matchStrategy="1" name="Examples_Get" qualified="false" references="true" similarDeclarations="false" stamp="1606913556207" textual="false" version="1.0"/>
+</session>

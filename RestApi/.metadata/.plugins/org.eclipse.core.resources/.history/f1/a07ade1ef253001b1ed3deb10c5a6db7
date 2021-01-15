@@ -1,0 +1,10 @@
+package Tutorial_Sdet_Package;
+
+public class Get_AllHeaders {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
